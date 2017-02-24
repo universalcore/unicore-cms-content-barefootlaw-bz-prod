@@ -6,12 +6,12 @@
   "primary_category": "2e8e7e3254d84d9ea0a032244b77886c", 
   "created_at": "2016-03-16T13:33:55+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-10-25T09:30:57.149068+00:00", 
+  "modified_at": "2017-02-24T13:49:06.370802+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "df767c01d5624070a351fa9463c9ee70", 
   "published": null, 
-  "position": 4, 
+  "position": 16, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "ya-mogu-vyskazat-svoe-mnenie", 
   "uuid": "5738fa8c2f294403af381a27943b5c5c"

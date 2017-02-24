@@ -6,12 +6,12 @@
   "primary_category": "2e8e7e3254d84d9ea0a032244b77886c", 
   "created_at": "2016-03-16T13:23:07+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-05-18T08:22:26.383212+00:00", 
+  "modified_at": "2017-02-24T13:49:22.916817+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "650c35e4254f49bdbf8f17dcd1d4f8ba", 
   "published": null, 
-  "position": 11, 
+  "position": 23, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "daem-slovo", 
   "uuid": "e5212e6464f44e90a2f3a8071f5473b7"
